@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36527962217",
+    "project_id": "pokertrainer-7e354",
+    "storage_bucket": "pokertrainer-7e354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36527962217:android:dc0367e092202a914c8af8",
+        "android_client_info": {
+          "package_name": "com.example.pokertrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36527962217-mgi70nnqp6f2mikeo503b7ae1gdsalph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrdxPjeChAkmWAJNADgsJRZvUqOZ5z-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36527962217-mgi70nnqp6f2mikeo503b7ae1gdsalph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

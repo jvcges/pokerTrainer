@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>36527962217-eb9j44a05povnbnq8bkf18c9ku0cqhbq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.36527962217-eb9j44a05povnbnq8bkf18c9ku0cqhbq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAt1GUodLxzSj2OODalQssYAaHD2owz9ao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>36527962217</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokertrainer</string>
+	<key>PROJECT_ID</key>
+	<string>pokertrainer-7e354</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokertrainer-7e354.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:36527962217:ios:8ec5e6c14c3e24294c8af8</string>
+</dict>
+</plist>
